@@ -1,0 +1,23 @@
+# GNS3 temporary files
+*.lock
+project-files/
+*-files/
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
